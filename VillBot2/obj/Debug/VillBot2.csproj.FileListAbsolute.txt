@@ -1,0 +1,237 @@
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.Form1.resources
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+D:\repos\VillBot2\VillBot2\bin\Debug\VillBot2.exe.config
+D:\repos\VillBot2\VillBot2\bin\Debug\VillBot2.exe
+D:\repos\VillBot2\VillBot2\bin\Debug\VillBot2.pdb
+D:\repos\VillBot2\VillBot2\bin\Debug\Leaf.xNet.dll
+D:\repos\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.dll
+D:\repos\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.xml
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.exe
+D:\repos\VillBot2\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\Vilsa\Desktop\VillBot2\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Vilsa\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\1\VillBot2\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\maxdz\Desktop\ShadPay\VillBot2\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\admin\Desktop\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\1\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csprojAssemblyReference.cache
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\maxdz\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\admin\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.AssemblyReference.cache
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\Таня Дзыба\Desktop\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.AssemblyReference.cache
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\Таня Дзыба\Desktop\my\waxpeer\waxpeer\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\runtimes\linux\native\brolib_x64.so
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\runtimes\linux\native\brolib_x86.so
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\runtimes\win\native\brolib_x64.dll
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\runtimes\win\native\brolib_x86.dll
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\VillBot2.exe.config
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\VillBot2.pdb
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\Brotli.Core.dll
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\Leaf.xNet.dll
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.csproj.AssemblyReference.cache
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.Form1.resources
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.Properties.Resources.resources
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.csproj.GenerateResource.cache
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.csproj.CoreCompileInputs.cache
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.csproj.CopyComplete
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.exe
+C:\Users\Таня Дзыба\Desktop\PuTTY\waxpeer_bot\VillBot2\obj\Debug\VillBot2.pdb
